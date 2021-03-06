@@ -1,0 +1,2 @@
+# typecho_mathjax_plugin
+一个typecho的数学公式支持插件
