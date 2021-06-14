@@ -10,4 +10,4 @@
 ## 使用方法
 下载插件并解压，将`MathJax.php`放到Typecho的`usr/plugins/`目录下，在Typecho后台中启用插件。
 使用演示可查看我的博客
-[Typecho数学公式插件](https://www.yuzhongzhibi.site/index.php/archives/516)
+[Typecho数学公式插件](https://drawrain.com/index.php/archives/516)
